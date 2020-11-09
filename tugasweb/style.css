@@ -1,0 +1,18 @@
+body {
+    background-image: url('background/729337.png');
+}
+.container{
+    background-color: palevioletred;
+   }
+
+h1 {
+    font-family: 'Itim', cursive;
+    padding: 20px;
+}
+.Data{
+    Padding: 5px;
+}
+form{
+    width: 800px;
+    margin: auto;
+}
